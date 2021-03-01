@@ -279,7 +279,7 @@ def dark_format_0992():
 	os.system('clear')
 	print (C+'Subs YT'+W+' ARYA X-PLOIT!'+C+' :v')
 	time.sleep(2)
-	os.system('xdg-open ')
+	os.system('xdg-open https://youtube.com/channel/UCYPwWfWXXrugsD_HxFTvXeg')
 	time.sleep(2)
 	os.system('clear')
 	time.sleep(2)
