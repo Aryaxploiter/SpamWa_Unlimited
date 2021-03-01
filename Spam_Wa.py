@@ -43,7 +43,7 @@ class spam:
 		
 			
 	def tokped(self):
-		rands=random.choice(open('dark.txt').readlines()).split('\n')[0]
+		rands=random.choice(open('Ploit.txt').readlines()).split('\n')[0]
 		kirim = {
 			'User-Agent' : rands,
 			'Accept-Encoding' : 'gzip, deflate',
